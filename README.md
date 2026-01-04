@@ -6,7 +6,7 @@ I work mostly on:
 - Distributed backend systems
 - Asynchronous pipelines & eventual consistency
 - Failure handling, retries, and idempotency
-- Pragmatic infrastructure choices (ops > hype)
+- Pragmatic infrastructure choices
 
 ### 📌 Case Study
 👉 [**How I Redesigned a Synchronous Pipeline into an Asynchronous, Eventually Consistent System**](https://github.com/shubham2803/system-design-notes/blob/main/async-pipeline-eventual-consistency.md)
